@@ -39,10 +39,12 @@ Final model accuracy: **93.7%**
 ---
 
 ## 🔧 How to Run the Project
-# Clone the repo
-git clone https://github.com/nikhilborade0412/true-fake-news-detection-nlp
 
-cd fake-news-detection-nlp
+### Clone the repository
+git clone https://github.com/Devenzz/True_Fake_News_Detection-NLP.git
+
+### Navigate to project folder
+cd True_Fake_News_Detection-NLP
 
 # Install dependencies
 pip install -r requirements.txt
